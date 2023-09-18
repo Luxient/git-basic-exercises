@@ -1,0 +1,576 @@
+    1  ls
+    2  python3 test.py
+    3  ls
+    4  cd Downloads
+    5  ls
+    6  sha256sum Anaconda3-2023.07-2-Linux-x86_64.sh
+    7  bash Anaconda3-2023.07-2-Linux-x86_64.sh
+    8  cd ..
+    9  ls
+   10  source ~/.bashrc
+   11  conda list
+   12  conda
+   13  conda auto_activate_base
+   14  conda create --name user_environment python=3
+   15  conda activate 
+   16  conda activate
+   17  conda
+   18  run conda
+   19  conda run
+   20  conda list
+   21  conda info
+   22  source ~/.bashrc
+   23  conda --version
+   24  conda 23.7.2
+   25  conda 23.7.2 --run
+   26  conda 23.7.2 run
+   27  conda run
+   28  ls
+   29  cd 'python activities'
+   30  python3 ex34.py
+   31  python3 test.py
+   32  code test.py
+   33  python3
+   34  python3 test.py
+   35  touch re35.py
+   36  code re35.py
+   37  anaconda-navigator
+   38  /bin/python3
+   39  sudo apt update
+   40  sudo apt uugrade
+   41  sudo apt ugrade
+   42  sudo apt upgrade
+   43  cal
+   44  sudo apt updatedb
+   45  sudo updatedb
+   46  sudo apt installncal
+   47  sudo apt install ncal
+   48  cal
+   49  locate music
+   50  sudo apt install plocate
+   51  locate music
+   52  cheese
+   53  sudo add-apt-repository multiverse
+   54  sudo apt update
+   55  sudo apt install ubuntu -restricted-extras
+   56  sudo apt install ubuntu-restricted-extras
+   57  cheese
+   58  sudo apt install kamosa
+   59  sudo apt install kamoso
+   60  kamoso
+   61  sudo apt-get install bluetooth
+   62  sudo systemctl status bluetooth.service
+   63  dmseg | grep -i blue
+   64  dmesg | grep -i blue
+   65  sudo apt-get install pulseaudio
+   66  sudo lspci
+   67  sudo apt-get install Intel Corporation Wildcat Point-LP High Definition Audio Controller (rev 03)
+   68  Intel Corporation Wildcat Point-LP High Definition Audio Controller (rev 03)
+   69  sudo apt install alsa
+   70  alsa
+   71  git --version
+   72  pwd
+   73  ls
+   74  ls Document/
+   75  ls Documents/
+   76  ls home/luxient/Documents
+   77  ls home/luxient/Documents/
+   78  ls /home/luxient/Documents/
+   79  ls Documents
+   80  ls -a
+   81  ls -l
+   82  ls -la
+   83  clean
+   84  clear
+   85  ls
+   86  cd Downloads/
+   87  cd ..
+   88  cd ~
+   89  cd Downloads/
+   90  cd
+   91  ls
+   92  cd
+   93  cd Downloads
+   94  pushd /etc
+   95  popd
+   96  ls
+   97  ls -a
+   98  cd
+   99  ls -a
+  100  file .face
+  101  file .bashrc
+  102  file .python_history
+  103  file test.py
+  104  file Videos
+  105  locate fstab
+  106  which cal
+  107  cal
+  108  history
+  109  help
+  110  info
+  111  uname
+  112  man -uname
+  113  man 
+  114  man uname
+  115  uname -a
+  116  whatis cal
+  117  apropos time
+  118  apropos copy
+  119  man man
+  120  whatis cd
+  121  apropos search
+  122  find "python"
+  123  find python
+  124  mkdir Junk
+  125  cd Junk
+  126  ls
+  127  touch file1 file2 file3
+  128  ls
+  129  cp ~/.bashrc bashrc
+  130  ls
+  131  cp cp bashrc bashrc.bak
+  132  cp bashrc bashrc.bak
+  133  ls
+  134  cd
+  135  cd Downloads
+  136  ls
+  137  cd ..
+  138  cd Junk
+  139  cp ~/Downloads/learn-python-3-hard-way.pdf python_guide
+  140  ls
+  141  less python_guide
+  142  mv bashrc.bak bashrc
+  143  ls
+  144  mv bashrc file1
+  145  ls
+  146  ls file
+  147  ls -a
+  148  ls
+  149  cd file1
+  150  rm file2
+  151  ls
+  152  touch file2
+  153  mkdir junk2
+  154  ls
+  155  rm junk2
+  156  rm file3
+  157  ls
+  158  rmdir junk2
+  159  ls
+  160  mkdir dir1 dir2 dir3
+  161  rmdir *
+  162  ls
+  163  cat file1
+  164  ls
+  165  cat python_guide
+  166  cat >> file2
+  167  cat file2
+  168  cat >> file2
+  169  cat file2
+  170  man cat
+  171  help cat
+  172  cat help
+  173  more file1
+  174  less file1
+  175  nano file2
+  176  cat file2
+  177  nano file2
+  178  cat file2
+  179  nano
+  180  cat >> file2
+  181  cat file2
+  182  history
+  183  cat > file2
+  184  nano file2
+  185  history | less
+  186  ls -al / >lsout.txt
+  187  ls
+  188  less lsout.txt
+  189  sudo updatedb
+  190  sudo -s
+  191  cd
+  192  users
+  193  id
+  194  cd Documents/
+  195  ls
+  196  cd
+  197  cd Downloads/
+  198  ls
+  199  ls -l
+  200  cd
+  201  cd Junk/
+  202  ls
+  203  ls -l
+  204  chmod +X file1
+  205  ls
+  206  chmod +x file1
+  207  ls -l
+  208  chmod 700 file1
+  209  ls -l
+  210  chmod 744 file1
+  211  ls -l
+  212  chmod 644 file1
+  213  ls -l
+  214  chmod 744 file1
+  215  ls -l
+  216  chmod 755 file1
+  217  ls -l
+  218  watch free -h
+  219  firefox
+  220  anaconda-navigator
+  221  which google-chrome
+  222  ls
+  223  less untitled.ipynb
+  224  untitled.ipynb
+  225  history
+  226  file untitled.ipynb
+  227  file untitled
+  228  ls
+  229  file Untitled.ipynb
+  230  cheese
+  231  kamoso 
+  232  git clone git@github.com:Luxient/demo-repo.git
+  233  cd de
+  234  ls -la
+  235  git status
+  236  git add .
+  237  git status
+  238  git commit -m "Added index.html"
+  239  git status
+  240  git commit -m "Added index.html"
+  241  sudo apt install git
+  242  git --version
+  243  mkdir github_training
+  244  cd github_training/
+  245  touch gitnotes.txt
+  246  code gitnotes.txt
+  247  code git.py
+  248  rm git.py
+  249  ls
+  250  code
+  251  code git
+  252  mkdir git
+  253  code git
+  254  ls
+  255  code test.py
+  256  test.py
+  257  sudo code  test.py
+  258  exit
+  259  python --version
+  260  code test.py
+  261  python3 test.py
+  262  touch important.md
+  263  code important.md
+  264  su 
+  265  history
+  266  sudo -s
+  267  gparted
+  268  code codeplay.py
+  269  python3 codeplay.py
+  270  touch list.py
+  271  code list.py
+  272  mkdir bootcamp
+  273  cd bootcamp
+  274  touch task1.py
+  275  ls
+  276  code task1.py
+  277  touch task5.py
+  278  ls
+  279  code task5.py
+  280  touch task6.py
+  281  code task6.py
+  282  touch task7.py
+  283  code task7.py
+  284  ls
+  285  touch task8.py
+  286  code task8.py
+  287  touch task9.py
+  288  code task9.py
+  289  touch task10.py
+  290  code task10.py
+  291  cd ..
+  292  sudo apt update
+  293  sudo apt upgrade
+  294  apt update
+  295  sudo apt update
+  296  apt list --upgradable
+  297  sudo gjs upgrade
+  298  sudo apt gjs upgrade
+  299  sudo apt upgrade gjs/jammy-updates 1.72.4-0ubuntu0.22.04.1 amd64 [upgradable from: 1.72.2-0ubuntu2]
+  300  libgjs0g/jammy-updates 1.72.4-0ubuntu0.22.04.1 amd64 [upgradable from: 1.72.2-0ubuntu2]
+  301  sudo apt upgrade gjs/jammy-updates 1.72.4-0ubuntu0.22.04.1
+  302  sudo apt list --upgrade
+  303  sudo apt list upgrade
+  304  apt list --upgradable
+  305  sudo apt update
+  306  sudo apt upgrade gjs/jammy-updates 1.72.4-0ubuntu0.22.04.1 amd64
+  307  sudo apt upgrade gjs/jammy-updates 1.72.2-0ubuntu2]
+  308  exit() exit()
+  309  exit
+  310  mkdir bash
+  311  touch question_1.md question_2.md question_3.md question_4.md question_5.md question_6.md question_7.md question_8.md question_9.md question_10.md question_11.md question_12.md question_13.md
+  312  ls
+  313  code bash
+  314  ls /
+  315  cd ../
+  316  ls
+  317  cd ../../
+  318  ls
+  319  ls /
+  320  ls luxient
+  321  cd ..
+  322  pwd
+  323  cd ../
+  324  ls
+  325  cd root
+  326  cd usr
+  327  ls
+  328  cd local
+  329  ls
+  330  cd ~
+  331  ls
+  332  cd /
+  333  ls
+  334  cd ..
+  335  ls
+  336  cd ~
+  337  ls
+  338  cd ...
+  339  cd ..
+  340  ls
+  341  cd ~
+  342  ls
+  343  ls -l
+  344  ls -a
+  345  ls -h
+  346  ls -la
+  347  man ls
+  348  ls -A
+  349  ls -a
+  350  ls -Aa
+  351  ls -L
+  352  ls -l
+  353  history
+  354  cd home
+  355  git 
+  356  git config
+  357  git usernsme
+  358  git  config --global
+  359  git config --global user.name "Luxient"
+  360  git config --global user.name
+  361  git config --global user.email "mthethwajames5@gmail.com"
+  362  git config --global user.email
+  363  mkdir git-basic-exercises
+  364  cd git-basic-exercises/
+  365  ls -a
+  366  git init
+  367  ls -a
+  368  git status
+  369  touch README.md
+  370  ls -a
+  371  git status 
+  372  git log
+  373  git add.
+  374  git add
+  375  git add .
+  376  git status
+  377  git rm --cached README.md
+  378  git status
+  379  git add README.md
+  380  git status
+  381  git commit -m "initial commit"
+  382  git log
+  383  q
+  384  nano Readme.md
+  385  rm Readme.md
+  386  ls -a
+  387  nano README.md 
+  388  cat README.md 
+  389  git status
+  390  git commit -m "second commit"
+  391  git add .
+  392  git status
+  393  git commit -m "second commit"
+  394  git status
+  395  nano README.md 
+  396  git status
+  397  git add .
+  398  git commit -m "third commit"
+  399  ls -a
+  400  git log
+  401  git checkout 642355627db5b5e826ff7079a162a43a08dfafd1
+  402  cat README.md 
+  403  git checkout main
+  404  git checkout master
+  405  cat README.md 
+  406  git branch 
+  407  git branch milkshake-flavours
+  408  git branch 
+  409  git checkout milkshake-flavours.
+  410  git brance milkshake-flavours.
+  411  git branch milkshake-flavours
+  412  ls -a
+  413  git checkout milkshake-flavours
+  414  git branch
+  415  nano milkshakes.md
+  416  git status
+  417  git add milkshakes.md
+  418  git status
+  419  git commit -m "added initial flavours"
+  420  git branch 
+  421  git log
+  422  git checkout master
+  423  git log
+  424  git branch history
+  425  git branch
+  426  git checkout history
+  427  git log
+  428  history > history.txt
+  429  git log
+  430  git status
+  431  git add history.txt
+  432  git status
+  433  git commit -m "added history"
+  434  git log
+  435  git checkout milkshake-flavours 
+  436  git log
+  437  nano README.md 
+  438  git add .
+  439  git status
+  440  git commit -m "random readme changes"
+  441  git log
+  442  git checkout history
+  443  cat README.md 
+  444  rm README.md 
+  445  echo "booya" > README.md
+  446  cat README.md 
+  447  git add .
+  448  git status
+  449  git commit -m "rewrote readme"
+  450  git log
+  451  git checkout master
+  452  ls
+  453  git log
+  454  git checkout milkshake-flavours 
+  455  ls
+  456  git log
+  457  git checkout history
+  458  ls
+  459  git log
+  460  git checkout main
+  461  git checkout master
+  462  git merge milkshake-flavours 
+  463  ls
+  464  git log
+  465  git branch
+  466  git merge history 
+  467  git status
+  468  git add README.md
+  469  cat README.md 
+  470  git commit -m "merged readme"
+  471  git status
+  472  git log
+  473  git checkout history
+  474  git merge master
+  475  git log
+  476  git checkout master
+  477  git log
+  478  cat README.md 
+  479  branch
+  480  git branch 
+  481  cd ..
+  482  git rm -r --cached git-basic-exercises
+  483  rm -r git-basic-exercises
+  484  ls
+  485  cd git-basic-exercises
+  486  git rm -r --cached
+  487  git branch 
+  488  ls -a
+  489  git checkout master
+  490  git init
+  491  git branch 
+  492  ls -a
+  493  git branch 
+  494  git checkout history
+  495  git init
+  496  ls -a
+  497  git status
+  498  git branch
+  499  git branch master
+  500  rm history.txt
+  501  ls -a
+  502  git branch main
+  503  git branch master
+  504  cd ..
+  505  rm -r git-basic-exercises
+  506  cd git-basic-exercises
+  507  ls
+  508  ls -a
+  509  git status
+  510  cd git
+  511  cd .git
+  512  ls -a
+  513  git status
+  514  cd ..
+  515  rm .git
+  516  rmdir .git
+  517  rmdir -r .git
+  518  rmdir --r .git
+  519  rmdir --help
+  520  rmdir -p .git
+  521  ls
+  522  cd ..
+  523  cd ~
+  524  ls -a
+  525  git --version
+  526  mkdir git-basic-exercises
+  527  ls
+  528  cd git-basic-exercises/
+  529  ls -a
+  530  git init
+  531  git branch
+  532  ls -a
+  533  git status
+  534  git log
+  535  git status
+  536  touch README.md
+  537  ls -a
+  538  git add .
+  539  git status
+  540  git commit -m "initial commit"
+  541  git log
+  542  nano README.md 
+  543  cat README.md 
+  544  git status
+  545  git add .
+  546  git commit -m "second commit"
+  547  git log
+  548  nano README.md 
+  549  git status
+  550  git add .
+  551  git status
+  552  git commit -m "third commit"
+  553  git log
+  554  git checkout e565f78dea08e0897fa0d175699b062846a193c8
+  555  cat README.md 
+  556  git checkout master
+  557  cat README.md 
+  558  git branch
+  559  git branch milkshake-flavours
+  560  git branch 
+  561  git checkout milkshake-flavours
+  562  git branch
+  563  nano milkshakes.md
+  564  git status
+  565  git add .
+  566  git status
+  567  git commit -m "added initial flavours"
+  568  git log
+  569  git checkout master
+  570  git log
+  571  git branch
+  572  git branch history
+  573  git checkout history
+  574  git log
+  575  git branch 
+  576  history > history.txt
