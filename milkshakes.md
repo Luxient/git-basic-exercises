@@ -1,0 +1,2 @@
+strawberry flavour
+vanilla flavour
